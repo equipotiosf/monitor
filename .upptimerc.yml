@@ -11,7 +11,9 @@ sites:
     url: https://osf.pe
   - name: WebSite-Bluefish
     url: https://apps.bluefishtrading.com
-
+  - name: App Glassfish
+    url: https://apps.osf.pe
+    
 assignees:
   - equipotiosf
 
