@@ -10,7 +10,7 @@ sites:
   - name: WebSite-Osf
     url: https://osf.pe
   - name: WebSite-Bluefish
-    url: https://apps.bluefishtrading.com.pe
+    url: https://apps.bluefishtrading.com
 
 assignees:
   - equipotiosf
