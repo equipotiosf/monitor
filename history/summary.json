@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/a1pedidos.pe",
     "slug": "a1delivery",
     "status": "up",
-    "uptime": "15.68%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "15.68%",
-    "uptimeYear": "15.68%",
+    "uptime": "16.64%",
+    "uptimeDay": "12.18%",
+    "uptimeWeek": "1.74%",
+    "uptimeMonth": "16.64%",
+    "uptimeYear": "16.64%",
     "time": 691,
     "timeDay": 989,
     "timeWeek": 989,
@@ -51,10 +51,10 @@
     "url": "https://osf.pe",
     "icon": "https://favicons.githubusercontent.com/osf.pe",
     "slug": "web-site-osf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 728,
@@ -62,7 +62,9 @@
     "timeWeek": 759,
     "timeMonth": 728,
     "timeYear": 728,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-01": 1
+    }
   },
   {
     "name": "WebSite-Bluefish",
@@ -89,7 +91,7 @@
     "url": "https://apps.osf.pe",
     "icon": "https://favicons.githubusercontent.com/apps.osf.pe",
     "slug": "app-glassfish",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -100,6 +102,8 @@
     "timeWeek": 625,
     "timeMonth": 616,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-01": 0
+    }
   }
 ]
